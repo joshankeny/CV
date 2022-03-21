@@ -56,7 +56,7 @@ skills <- tribble(
   "Programming Languages", "R, SQL:ANSI, MySQL, Python, JavaScript",
   "Markup Languages", "RMarkdown, LaTeX, HTML, CSS",
   "Dashboarding Software", "Shiny, Tableau",
-  "Database Software", "FME, Snowflake, AWS, Databricks",
+  "Database Software", "FME, Snowflake, AWS, Databricks, Git",
   "Text Editors", "RStudio, AWS Cloud9, VS Code, NotePad++",
   "Microsoft", "Teams, Excel, Access, Outlook, PowerPoint, Word, Sharepoint, Outlook",
   "Google Software", "Docs, Sheets, Forms",
@@ -133,7 +133,7 @@ references <- tribble(
   "Dr. Phil Sandstrom", "Natural Resources Specialist III Tacoma Power", "Email: psandstrom@cityoftacoma.org",
   "Dr. J. Todd Petty", "Department Chair and Professor Clemson University" ,"Phone: 864-656-3302",
   "Dr. J. Todd Petty", "Department Chair and Professor Clemson University" ,"Email: jtpetty@clemson.edu",
-  "Dr. Jason Neuswanger", "Senior Fisheries Ecologist South Fork Research","Phone: 917-628-1717",
+  "Dr. Jason Neuswanger", "Senior Fisheries Ecologist South Fork Research","Phone: 917-628-1747",
   "Dr. Jason Neuswanger", "Senior Fisheries Ecologist South Fork Research","Email: jasonneuswanger@gmail.com",
   "Scott Gibson","Natural Resources Specialist I Tacoma Power","Phone: 253-779-7535",
   "Scott Gibson","Natural Resources Specialist I Tacoma Power","Email: sgibson@cityoftacoma.org"
