@@ -1,0 +1,24 @@
+---
+author: Joshua Ankeny
+return-address: 
+  - 8110 US Highway 12
+  - Glenoma, WA 98336
+address:
+  - Alissa McLain
+  - Tacoma Public Utilities
+  - 3628 South 35th Street
+  - Tacoma, WA 98409
+  
+subject: Natural Resources Technician 1 Position
+opening: Dear Alissa McClain,
+closing: Best regards,
+signature: Joshua Ankeny
+
+output: komaletter::komaletter
+---
+
+My name is Joshua Ankeny and I am a Fisheries Technician II with the Pacific States Marine Fisheries Commission (PSMFC). For the past three years, I have been performing contract work for Tacoma Power on the Cowlitz River Project. In my time here, I have gained extensive knowledge of fisheries work as it relates to the various Tacoma Power hydro-power projects. My gained experience consists of both field work (i.e., spawning ground surveys, juvenile and adult identification and enumeration, fish tagging, biosampling, creel and all other job duties outline in my curriculum vitae) and computer work (i.e., database construction, data visualization, data analysis, webapp construction, reporting and all other job duties outlined in my curriculum vitae). These experiences have prepared me to excel in the role of Natural Resources Technician I within Tacoma Power Natural Resources.
+
+I have been working intimately with the Tacoma Power hydro-power projects in my time with PSMFC. This experience has made me an ideal candidate for the NR Tech I position. I have performed various job duties on both the Cowlitz River Project and the Cushman Hydro Project and am familiar with the geographical areas as well as the fish passage facilities. I have performed fish separation duties at the Cowlitz Barrier Dam Separator, Mayfield Dam Juvenile Fish Collector, Cushman Dam Juvenile Fish Collector and Cowlitz Falls Fish Facility. At the initiation of the COVID-19 pandemic, I had the opportunity to further my education in data analysis and data visualization. In this time, I expanded my knowledge of R statistical software as well as learned SQL, Python, HTML, LaTeX, CSS and JavaScript. I also became well versed in data engineering software (i.e., Snowflake, FME, Databricks and AWS) and dashboarding software (i.e., R Shiny and Tableau). These tools combined with my education (i.e., M.Sc. Degree) will continue to prove useful to the Tacoma Power projects and grow the projects towards their goals.
+
+In closing, I feel that I am a great fit for the NR Tech I position. I bring with me a suite of skills that will greatly benefit the project. I am excited to be a part of the Tacoma Public Utilities team and represent Tacoma Power Natural Resources. Any additional information can be found on my curriculum vitae which I have attached to the job application.
