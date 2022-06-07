@@ -4,21 +4,22 @@ return-address:
   - 8110 US Highway 12
   - Glenoma, WA 98336
 address:
-  - Alissa McLain
-  - Tacoma Public Utilities
-  - 3628 South 35th Street
-  - Tacoma, WA 98409
-  
-subject: Natural Resources Technician 1 Position
-opening: Dear Alissa McClain,
-closing: Best regards,
+  - Human Resources Department
+  - 747 Market Street
+  - Tacoma, WA 98402-3764
+
+papersize: letter
+date: NULL
+subject: Human Resources Analyst, Senior - Workforce Data Analyst
+opening: Dear Human Resources Department,
+closing: Best Regards,
 signature: Joshua Ankeny
 
 output: komaletter::komaletter
 ---
 
-My name is Joshua Ankeny and I am a Fisheries Technician II with the Pacific States Marine Fisheries Commission (PSMFC). For the past three years, I have been performing contract work for Tacoma Power on the Cowlitz River Project. In my time here, I have gained extensive knowledge of fisheries work as it relates to the various Tacoma Power hydro-power projects. My gained experience consists of both field work (i.e., spawning ground surveys, juvenile and adult identification and enumeration, fish tagging, biosampling, creel and all other job duties outline in my curriculum vitae) and computer work (i.e., database construction, data visualization, data analysis, webapp construction, reporting and all other job duties outlined in my curriculum vitae). These experiences have prepared me to excel in the role of Natural Resources Technician I within Tacoma Power Natural Resources.
+My name is Joshua Ankeny and I am a Natural Resources Technician I with the City of Tacoma. I currently work on the Cowlitz River Project for the TPU - Power - Generation - Natural Resources team. Prior to my employment with the City, I was performing contract work for Tacoma Power on the Cowlitz River Project. In my time as a contractor I received outstanding employee reviews and quickly climbed until I was hired on as a FTE for the City of Tacoma. Even though my rapid transition to a City of Tacoma employee was a great accomplishment, my job duties have remained static. Through the COVID pandemic, my job duties shifted to allow more focus on data analysis, data visualization and continued education with various data software and languages. During this period I have expanded my portfolio to include the advanced use of R, RShiny, Tableau, Snowflake, FME, Python and ESRI Products. While you review my CV I ask you to disregard the focus of my degrees and instead consider the other educational experiences that I gathered from obtaining them. Both my undergraduate and graduate degrees involved extensive education in statistical analysis, data management, data manipulation and data visualization. Both degrees required my utmost focus and were finished in a timely manner with elaborate exit theses. Additionally, my graduate degree also provided two years of supervisory experience. My education alongside my data analyst experiences have prepared me to excel in the role of Human Resources Analyst, Senior - Workforce Data Analyst.
 
-I have been working intimately with the Tacoma Power hydro-power projects in my time with PSMFC. This experience has made me an ideal candidate for the NR Tech I position. I have performed various job duties on both the Cowlitz River Project and the Cushman Hydro Project and am familiar with the geographical areas as well as the fish passage facilities. I have performed fish separation duties at the Cowlitz Barrier Dam Separator, Mayfield Dam Juvenile Fish Collector, Cushman Dam Juvenile Fish Collector and Cowlitz Falls Fish Facility. At the initiation of the COVID-19 pandemic, I had the opportunity to further my education in data analysis and data visualization. In this time, I expanded my knowledge of R statistical software as well as learned SQL, Python, HTML, LaTeX, CSS and JavaScript. I also became well versed in data engineering software (i.e., Snowflake, FME, Databricks and AWS) and dashboarding software (i.e., R Shiny and Tableau). These tools combined with my education (i.e., M.Sc. Degree) will continue to prove useful to the Tacoma Power projects and grow the projects towards their goals.
+At the initiation of the COVID-19 pandemic, I had the opportunity to further my education in data analysis and data visualization. I am highly self-motivated and saw this as an opportunity to expand my knowledge of data analysis. I quickly picked up R, SQL, Python, HTML, LaTeX, CSS and JavaScript. I also became well versed in data engineering software (i.e., Snowflake, FME, Databricks and AWS) and dashboarding software (i.e., RShiny and Tableau). These tools allowed me to construct various RShiny Web Applications, RMarkdown automated reports, Tableau Dashboards, Excel spreadsheets and ArcGIS products. I became a point of contact for data visualization projects and database management solutions. My proudest accomplishment while in this position was the completion of the Cowlitz Runtime App. The Cowlitz Runtime App is a RShiny web application with extensive background analysis. Within the application, I present salmonid data collected from the Cowlitz River Project and use it to predict future salmonid run sizes and timing. In addition to run predictions, I also outline disbursement of adult salmonids within the river basin to meet a public outreach goal. Examples of these products will be compiled in a digital file as part of my application.
 
-In closing, I feel that I am a great fit for the NR Tech I position. I bring with me a suite of skills that will greatly benefit the project. I am excited to be a part of the Tacoma Public Utilities team and represent Tacoma Power Natural Resources. Any additional information can be found on my curriculum vitae which I have attached to the job application.
+In closing, I feel that I am a great fit for the Human Resources Analyst, Senior - Workforce Data Analyst position. I bring with me a suite of skills that will greatly benefit the project. I am excited to be a part of the Human Resources team and represent the City of Tacoma. Any additional information can be found on my curriculum vitae or by contacting me.

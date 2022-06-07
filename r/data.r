@@ -1,14 +1,18 @@
 work <- tribble(
   ~title, ~startMonth, ~startYear, ~endMonth, ~endYear, ~unit, ~where, ~detail,
-  "Fisheries Technician II", "September", 2020, "Present", NA, "Pacific States Marine Fisheries Commission","Salkum - WA", "Continuation of Fisheries Technician I job duties", 
-  "Fisheries Technician II", "September", 2020, "Present", NA, "Pacific States Marine Fisheries Commission","Salkum - WA", "Database structuring and management",
-  "Fisheries Technician II", "September", 2020, "Present", NA, "Pacific States Marine Fisheries Commission","Salkum - WA", "Development of Shiny web applications",
-  "Fisheries Technician II", "September", 2020, "Present", NA, "Pacific States Marine Fisheries Commission","Salkum - WA", "Development of ArcGIS data products",
-  "Fisheries Technician II", "September", 2020, "Present", NA, "Pacific States Marine Fisheries Commission","Salkum - WA", "Development of ArcGIS training videos",
-  "Fisheries Technician II", "September", 2020, "Present", NA, "Pacific States Marine Fisheries Commission","Salkum - WA", "Tableau dashboarding",
-  "Fisheries Technician II", "September", 2020, "Present", NA, "Pacific States Marine Fisheries Commission","Salkum - WA", "Data Pipeline Engineering (FME)",
-  "Fisheries Technician II", "September", 2020, "Present", NA, "Pacific States Marine Fisheries Commission","Salkum - WA", "Construct Data Reports",
-  "Fisheries Technician II", "September", 2020, "Present", NA, "Pacific States Marine Fisheries Commission","Salkum - WA", "Confer with State Fisheries agency",
+  "Natural Resources Technician I", "April", 2022, "Present", NA, "City of Tacoma", "Salkum - WA", "Design and Implement Data Visualization Products (i.e., Dashboard, Web Applications, HTML and PDF Reports)",
+  "Natural Resources Technician I", "April", 2022, "Present", NA, "City of Tacoma", "Salkum - WA", "Collect, Transcribe, Analyze and Report on data collected on daily project operations",
+  "Natural Resources Technician I", "April", 2022, "Present", NA, "City of Tacoma", "Salkum - WA", "Use advanced statistical models to construct meaningful and comprehensive predictions",
+  "Natural Resources Technician I", "April", 2022, "Present", NA, "City of Tacoma", "Salkum - WA", "Construct secure and manageable databases using various data software tools (i.e., Snowflake, Tableau, R, RShiny, FME, Databricks, ESRI Products, AWS Cloud Products",
+  "Fisheries Technician II", "September", 2020, "April", 2022, "Pacific States Marine Fisheries Commission","Salkum - WA", "Continuation of Fisheries Technician I job duties", 
+  "Fisheries Technician II", "September", 2020, "April", 2022, "Pacific States Marine Fisheries Commission","Salkum - WA", "Database structuring and management",
+  "Fisheries Technician II", "September", 2020, "April", 2022, "Pacific States Marine Fisheries Commission","Salkum - WA", "Development of Shiny web applications",
+  "Fisheries Technician II", "September", 2020, "April", 2022, "Pacific States Marine Fisheries Commission","Salkum - WA", "Development of ArcGIS data products",
+  "Fisheries Technician II", "September", 2020, "April", 2022, "Pacific States Marine Fisheries Commission","Salkum - WA", "Development of ArcGIS training videos",
+  "Fisheries Technician II", "September", 2020, "April", 2022, "Pacific States Marine Fisheries Commission","Salkum - WA", "Tableau dashboarding",
+  "Fisheries Technician II", "September", 2020, "April", 2022, "Pacific States Marine Fisheries Commission","Salkum - WA", "Data Pipeline Engineering (FME)",
+  "Fisheries Technician II", "September", 2020, "April", 2022, "Pacific States Marine Fisheries Commission","Salkum - WA", "Construct Data Reports",
+  "Fisheries Technician II", "September", 2020, "April", 2022, "Pacific States Marine Fisheries Commission","Salkum - WA", "Confer with State Fisheries agency",
   "Fisheries Technician I", "September", 2019, "September", 2020, "Pacific States Marine Fisheries Commission","Salkum - WA","Spawning ground surveys",
   "Fisheries Technician I", "September", 2019, "September", 2020, "Pacific States Marine Fisheries Commission","Salkum - WA","Camera creel analysis",
   "Fisheries Technician I", "September", 2019, "September", 2020, "Pacific States Marine Fisheries Commission","Salkum - WA","PIT tagging",
@@ -33,11 +37,11 @@ work <- tribble(
   "Field Technician", "May", 2015, "August", 2016,"University of Georgia","Fairbanks - AK","Performed gastric lavage",
   "Field Technician", "May", 2015, "August", 2016,"University of Georgia","Fairbanks - AK","Used underwater videography equipment",
   "Field Technician", "May", 2015, "August", 2016,"University of Georgia","Fairbanks - AK","Spent up to four consecutive days in the field",
-  "Teacher's Assistant", "August", 2014, "December", 2014, "Saint Francis University","Loretto - PA", "Provided instruction and assistance to students in laboratory setting",
-  "Teacher's Assistant", "August", 2014, "December", 2014, "Saint Francis University","Loretto - PA", "Assisted instructor with laboratory setup, laboratory cleanup, and exam administration",
-  "Residents Assistant", "August", 2013, "May", 2014,"Saint Francis University","Loretto - PA", "Promptly handled emergency situations",
-  "Residents Assistant", "August", 2013, "May", 2014,"Saint Francis University","Loretto - PA", "Established good rapport with a diverse group of individuals",
-  "Residents Assistant", "August", 2013, "May", 2014,"Saint Francis University","Loretto - PA", "Learned good time management",
+  # "Teacher's Assistant", "August", 2014, "December", 2014, "Saint Francis University","Loretto - PA", "Provided instruction and assistance to students in laboratory setting",
+  # "Teacher's Assistant", "August", 2014, "December", 2014, "Saint Francis University","Loretto - PA", "Assisted instructor with laboratory setup, laboratory cleanup, and exam administration",
+  # "Residents Assistant", "August", 2013, "May", 2014,"Saint Francis University","Loretto - PA", "Promptly handled emergency situations",
+  # "Residents Assistant", "August", 2013, "May", 2014,"Saint Francis University","Loretto - PA", "Established good rapport with a diverse group of individuals",
+  # "Residents Assistant", "August", 2013, "May", 2014,"Saint Francis University","Loretto - PA", "Learned good time management",
 )
 
 certifications <- tribble(
@@ -50,19 +54,21 @@ certifications <- tribble(
 
 skills <- tribble(
   ~area, ~skills,
-  "Field","Identification and enumeration of juvenile and adult fishes, Spawning ground surveys, Fish sorting by mark type, 
-           Creel, Operation of Tacoma Power adult and juvenile fish collection facilities, PIT Tagging, Familiarity with Tacoma Power projects and operations, Biosampling, Electrofishing, Seine netting, trawling, Gill netting, GoPro photography and videography, 
-           Radio telemetry, Water quality testing, Swift water safety, Rafting, Angling, Camping, Boating",
+  # "Field","Identification and enumeration of juvenile and adult fishes, Spawning ground surveys, Fish sorting by mark type, 
+           # Creel, Operation of Tacoma Power adult and juvenile fish collection facilities, PIT Tagging, Familiarity with Tacoma Power projects and operations, Biosampling, Electrofishing, Seine netting, trawling, Gill netting, GoPro photography and videography, 
+           # Radio telemetry, Water quality testing, Swift water safety, Rafting, Angling, Camping, Boating",
+  "Database Management", "Collaboration with various projects to extract and merge data, Maintain centralized repositories, Version Control, Conformity to pre-established standards, Quality assurance",
+  "Statistical Analysis", "Linear Regression, Economics, Power analysis, Hypothesis testing, Bayesian Statistics and Modeling, Basic algebra and mathematics",
   "Programming Languages", "R, SQL:ANSI, MySQL, Python, JavaScript",
   "Markup Languages", "RMarkdown, LaTeX, HTML, CSS",
-  "Dashboarding Software", "Shiny, Tableau",
+  "Dashboarding Software", "RShiny, Tableau",
   "Database Software", "FME, Snowflake, AWS, Databricks, Git",
   "Text Editors", "RStudio, AWS Cloud9, VS Code, NotePad++",
   "Microsoft", "Teams, Excel, Access, Outlook, PowerPoint, Word, Sharepoint, Outlook",
   "Google Software", "Docs, Sheets, Forms",
   "Video/Photo Editing Software", "Adobe Photoshop, Adobe Premier Rush",
-  "Other Languages", "Written Spanish",
-  "General", "Time Management, Comfortable in both a team and individual setting, Able to successfully write a grant and receive funding, Leadership skills, Safety oriented"
+  "Other Languages", "Written Spanish, Spoken Spanish with a refresher",
+  "General", "Self-motivated, Productive in both a team and individual setting, Effective Communication, Leadership skills, Supervisory Experience, Cultivate Innovation, Trustworthy, Safety oriented, Time Management"
 )
 
 honors <- tribble(
@@ -78,8 +84,8 @@ shinyapps <- tribble(
   ~app,~click,
   "Tacoma Power Cowlitz River Salmonid Runtime Tracker","\\href{https://tacoma.shinyapps.io/cowlitz_runtime_app/}{\\color{blue}{Click Here for App}}",
   "Cowlitz River Salmonid Runtime Comparison Dashboard","\\href{https://tacoma.shinyapps.io/testing_reactive_graphs/}{\\color{blue}{Click Here for App}}",
-  "Cowlitz Trout Hatchery PIT Array Dashboard","\\href{https://tacoma.shinyapps.io/CTH_PIT_ARRAY/?_ga=2.202115601.10456577.1641499143-898210803.1635523745}{\\color{blue}{Click Here for App}}"
-)
+  "Cowlitz Trout Hatchery PIT Array Dashboard","\\href{https://tacoma.shinyapps.io/CTH_PIT_ARRAY/?_ga=2.202115601.10456577.1641499143-898210803.1635523745}{\\color{blue}{Click Here for App}}",
+  "Mayfield Juvenile Report Generator", "\\href{https://tacoma.shinyapps.io/cowlitz_mayfield_report_generator/}{\\color{blue}{Click Here for App}}",)
 
 edu <- tribble(
   ~degree, ~startYear, ~endYear, ~inst, ~GPA,
@@ -88,7 +94,6 @@ edu <- tribble(
   "Biological Diving Minor", 2012,2016,"Saint Francis University",NA
   ) %>%
   arrange(-endYear)
-
 
 research_experience <- tribble(
   ~title, ~role, ~where, ~detail,
@@ -131,10 +136,13 @@ references <- tribble(
   ~name, ~title, ~contact,
   "Dr. Phil Sandstrom", "Natural Resources Specialist III Tacoma Power", "Phone: 803-466-3172",
   "Dr. Phil Sandstrom", "Natural Resources Specialist III Tacoma Power", "Email: psandstrom@cityoftacoma.org",
+  "Kory Doran", "Business Intelligence Manager", "Phone: 805-801-2164", 
+  "Kory Doran", "Business Intelligence Manager", "Email: korydoran@gmail.com",
   "Dr. J. Todd Petty", "Department Chair and Professor Clemson University" ,"Phone: 864-656-3302",
   "Dr. J. Todd Petty", "Department Chair and Professor Clemson University" ,"Email: jtpetty@clemson.edu",
   "Dr. Jason Neuswanger", "Senior Fisheries Ecologist South Fork Research","Phone: 917-628-1747",
-  "Dr. Jason Neuswanger", "Senior Fisheries Ecologist South Fork Research","Email: jasonneuswanger@gmail.com",
-  "Scott Gibson","Natural Resources Specialist I Tacoma Power","Phone: 253-779-7535",
-  "Scott Gibson","Natural Resources Specialist I Tacoma Power","Email: sgibson@cityoftacoma.org"
+  "Dr. Jason Neuswanger", "Senior Fisheries Ecologist South Fork Research","Email: jasonneuswanger@gmail.com"
 )
+# ,
+#   "Scott Gibson","Natural Resources Specialist I Tacoma Power","Phone: 253-779-7535",
+#   "Scott Gibson","Natural Resources Specialist I Tacoma Power","Email: sgibson@cityoftacoma.org"

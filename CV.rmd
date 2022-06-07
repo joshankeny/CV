@@ -1,16 +1,16 @@
 ---
 name: Joshua
 surname: Ankeny
-position: "Fisheries Technician II"
+position: "Natural Resources Technician I"
 address: "8110 US HWY 12, Glenoma, WA 98336"
-profilepic: "./img/profile.jpg"
+#profilepic: "./img/profile.jpg"
 phone: 814-289-9149
 email: "joshankeny10@gmail.com"
 linkedin: joshua-ankeny
 github: joshankeny
 date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: 990000
-aboutme: Over the past 3 years I have been working as a Pacific States Marine Fisheries Commission contractor for Tacoma Power. I regularly perform various fisheries technician duties (i.e., spawning ground surveys, PIT tagging, biosampling, fish identification and enumeration, etc.). In the past 2 years my duties have shifted to allow for more focus on data analysis, data visualization and continued education with various data softwares. I primarily use R, ArcGIS Pro, Tableau and Snowflake to complete various data visualization projects. I have a deep seeded passion for data science, data visualization and automation.
+aboutme: Over the past three years I have been working for Tacoma Power in various capacities. My work with Tacoma Power began as a field technician performing various salmonid related field operations. Through the COVID pandemic, my job duties shifted to allow more focus on data analysis, data visualization and continued education with various data software and languages. During this period I have expanded my portfolio to include the advanced use of R, RShiny, Tableau, Snowflake, FME, Python and ESRI Products. Though I graduated with a M.Sc. Degree in Wildlife and Fisheries Resources, I have always had a deep-seated passion for data science, data visualization and automation. My passion for this field of work is expressed within this CV made wholly using R. 
 docname: CV
 output: vitae::awesomecv
 ---
@@ -94,16 +94,16 @@ research_experience %>%
   
 ```
 
-# Certifications
+<!-- # Certifications -->
 
-```{r CERTIFICATIONS, echo = FALSE}
+<!-- ```{r CERTIFICATIONS, echo = FALSE} -->
 
-certifications %>%
-  detailed_entries(
-    what = cert
-  )
-  
-```
+<!-- certifications %>% -->
+<!--   detailed_entries( -->
+<!--     what = cert -->
+<!--   ) -->
+
+<!-- ``` -->
 
 
 
